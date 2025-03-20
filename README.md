@@ -1,6 +1,4 @@
-# Full Stack Developer.
-
-Currently learning:
+# Currently learning:
 
 <div>
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
